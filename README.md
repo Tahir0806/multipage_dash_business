@@ -8,6 +8,7 @@ It allows users to visualize business data across multiple pages with interactiv
 Here’s a quick preview of the dashboard:
 
 ![Dashboard Screenshot](dashboard.png)
+*(Fig: Multi-Page Business Dashboard)*
 
 ## 🚀 Features
 - Multi-page navigation (Products, Sales, Customers, Help Center, etc.)
