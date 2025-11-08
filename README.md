@@ -14,7 +14,7 @@ Here’s a quick preview of the dashboard:
 - Multi-page navigation (Products, Sales, Customers, Help Center, etc.)
 - Interactive data visualizations using Plotly
 - Integrated with Bootstrap theme for a modern UI
-- Deployed on [PythonAnywhere]
+- Deployed on PythonAnywhere
 
 
 ## 🛠️ Tech Stack
